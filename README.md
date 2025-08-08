@@ -1,2 +1,11 @@
-# optimal-plane-seating-ordering
-This is a fun project I'm working on. Many times while flying, you'll notice that boarding takes a while. Some airlines will begin boarding 30 minutes before takeoff and other times even up to 50 minutes. It takes a while and everyone wants to be first. The question I'm trying to solve is: what is the best way to get everyone on board the plane?
+# Optimal Plane Seating Ordering ✈️
+
+Boarding a plane takes *forever*.  
+Some airlines start **30–50 minutes** before takeoff, yet we still end up in slow-moving lines and aisle traffic jams.
+
+**The question:** What’s the fastest, fairest way to get everyone on board?
+
+This project uses **simulations, data analysis, and optimization algorithms** to test boarding strategies — from the classic zone method to creative, data-driven solutions — with one goal:  
+**minimize boarding time without losing sanity.**
+
+Stay tuned for results.
