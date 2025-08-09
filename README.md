@@ -1,4 +1,4 @@
-# Optimal Plane Seating Ordering ✈️
+# Optimal Plane Boarding ✈️
 
 Boarding a plane takes *forever*.  
 Some airlines start **30–50 minutes** before takeoff, yet we still end up in slow-moving lines and aisle traffic jams.
